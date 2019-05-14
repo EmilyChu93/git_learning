@@ -1,0 +1,1 @@
+Stage is an area which contains the context after "git add".

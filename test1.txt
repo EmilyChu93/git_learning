@@ -2,3 +2,4 @@ Git is a distributed version control software.
 Git is free and fast to use.
 
 2019.05.08 Learning records: add, commit, log
+2019.05.09 Learning records: stage
