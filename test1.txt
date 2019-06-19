@@ -1,3 +1,4 @@
 Git is a distributed version control software.
 Git is free and fast to use.
 You can create a new branch. Creating branches is fast and easy.
+New merging to test Fast-forward mode.
